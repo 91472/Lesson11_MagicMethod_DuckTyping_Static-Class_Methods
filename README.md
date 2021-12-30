@@ -1,0 +1,2 @@
+# Lesson11_MagicMethod_DuckTyping_Static-Class_Methods
+Lesson11_MagicMethod_DuckTyping_Static&amp;ClassMethods
